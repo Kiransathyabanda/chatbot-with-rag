@@ -14,7 +14,7 @@ This is a Streamlit web application that allows users to chat with a chatbot or 
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/kiransathyabanda/chatbot-with-rag.git
-    cd chat-doc-analysis-app
+    cd chatbot-with-rag
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
